@@ -1,3 +1,4 @@
+import type { ContentEntryType, HookParameters } from 'astro'
 export type relementjs_astro_config_T = {
 	foo?:number
 }
