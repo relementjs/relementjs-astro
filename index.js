@@ -18,27 +18,24 @@ export default function relementjs_astro_(config) {
 			'astro:config:setup': async params=>{
 				/** @type {SetupHookParams} */
 				const { updateConfig, addContentEntryType } = params
-				astro_config = params.config;
+				astro_config = params.config
 				addContentEntryType(
 					await getContentEntryType({ astro_config, config })
-				);
-
+				)
 				updateConfig({
 					vite: {
 						ssr: {
 							external: ['@astrojs/markdoc/prism', '@astrojs/markdoc/shiki'],
 						},
 					},
-				});
+				})
 			},
 		},
-	};
+	}
 }
 export async function getContentEntryType({
 	astro_config,
 	config,
 }) {
-	return {
-
-	}
+	return {}
 }
