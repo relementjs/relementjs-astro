@@ -1,7 +1,7 @@
 {
 	"name": "@relementjs/astro",
 	"private": true,
-	"version": "0.0.30",
+	"version": "0.0.31",
 	"description": "relementjs astro integration",
 	"keywords": [
 		"astrojs",
@@ -43,7 +43,7 @@
 		"astro": "^4.2.7"
 	},
 	"devDependencies": {
-		"@types/node": "^20.11.10",
+		"@types/node": "^20.11.13",
 		"c8": "^9.1.0",
 		"check-dts": "^0.7.2",
 		"tsx": "^4.7.0",
