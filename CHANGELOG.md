@@ -1,5 +1,11 @@
 # @relementjs/astro
 
+## 0.0.40
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+
 ## 0.0.39
 
 ### Patch Changes
