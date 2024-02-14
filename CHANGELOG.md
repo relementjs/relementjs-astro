@@ -1,5 +1,11 @@
 # @relementjs/astro
 
+## 0.0.42
+
+### Patch Changes
+
+- astro: ^4.3.6 -> ^4.3.7
+
 ## 0.0.41
 
 ### Patch Changes
