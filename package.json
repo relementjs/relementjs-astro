@@ -1,7 +1,7 @@
 {
 	"name": "@relementjs/astro",
 	"private": true,
-	"version": "0.0.56",
+	"version": "0.0.57",
 	"description": "relementjs astro integration",
 	"keywords": [
 		"astrojs",
@@ -40,7 +40,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"astro": "^4.4.12"
+		"astro": "^4.4.13"
 	},
 	"devDependencies": {
 		"@types/node": "^20.11.24",
