@@ -1,5 +1,11 @@
 # @relementjs/astro
 
+## 0.0.71
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 0.0.70
 
 ### Patch Changes

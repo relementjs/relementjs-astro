@@ -1,7 +1,7 @@
 {
 	"name": "@relementjs/astro",
 	"private": true,
-	"version": "0.0.70",
+	"version": "0.0.71",
 	"description": "relementjs astro integration",
 	"keywords": [
 		"astrojs",
@@ -17,7 +17,11 @@
 		"url": "https://github.com/relementjs/relementjs-astro.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+relementjs-astro@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
