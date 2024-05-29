@@ -1,5 +1,11 @@
 # @relementjs/astro
 
+## 0.0.105
+
+### Patch Changes
+
+- @types/node: ^20.12.12 -> ^20.12.13
+
 ## 0.0.104
 
 ### Patch Changes
