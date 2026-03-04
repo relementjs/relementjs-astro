@@ -1,5 +1,15 @@
 # @relementjs/astro
 
+## 0.0.128
+
+### Patch Changes
+
+- c8: ^10.1.3 -> ^11.0.0
+- astro: ^4.16.19 -> ^5.18.0
+- check-dts: ^0.8.2 -> ^0.9.0
+- tsx: ^4.20.6 -> ^4.21.0
+- @types/node: ^22.19.0 -> ^25.3.3
+
 ## 0.0.127
 
 ### Patch Changes
